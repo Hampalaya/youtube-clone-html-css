@@ -1,0 +1,9 @@
+{
+    "schedule": "daily",
+    "compressWiki": false,
+    "minKBReduced": 10,
+    "ignoredFiles": [
+        "*.avif"
+    ],
+    "aggressiveCompression": false
+}
